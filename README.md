@@ -1,24 +1,12 @@
-# README
+# 写真投稿機能付きミニブログアプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- http://igarashikuniaki.net/rails_textbook/my-first-web-app.html
+- Ruby 2.3.1
+- Rails 5.0.0.1
 
-Things you may want to cover:
+# 実行方法
 
-* Ruby version
+- bundle install
+- rails s
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
